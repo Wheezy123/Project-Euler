@@ -1,2 +1,2 @@
-DevPreWork01
+Project Euler Solutions
 ============
